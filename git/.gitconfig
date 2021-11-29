@@ -1,0 +1,41 @@
+[alias]
+    l = log --graph --decorate --all
+    lpull = log @{1}..
+    ll = log --graph --decorate --all --stat
+    oneline = log --oneline --graph --decorate --abbrev-commit
+    mas = log --oneline --graph --decorate --left-right master...origin/master
+    who = shortlog -sne
+    s = status
+    stqtus = status
+    co = checkout
+    d = diff
+    dpull = diff @{1}..
+    dc = diff --cached
+    dcw = diff --cached --ignore-space-at-eol -b -w --ignore-blank-lines
+    merge = merge --no-ff
+    current = rev-parse --abbrev-ref HEAD
+    res = reset --hard
+    p = push
+    c = !git current
+    com = commit -m
+    coma = commit -a -m
+    dw = diff --ignore-space-at-eol -b -w --ignore-blank-lines
+
+[user]
+    name = Rémi Weng
+    email = ixartz@users.noreply.github.com
+
+[color]
+    ui = true
+
+[push]
+    default = current
+
+[pull]
+    default = current
+
+[pager]
+    log = less --tabs=2 -RFX --pattern 'commit '
+
+[core]
+    excludesfile = ~/config/git/.gitignore
