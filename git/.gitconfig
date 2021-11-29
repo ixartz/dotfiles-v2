@@ -36,6 +36,3 @@
 
 [pager]
     log = less --tabs=2 -RFX --pattern 'commit '
-
-[core]
-    excludesfile = ~/config/git/.gitignore
