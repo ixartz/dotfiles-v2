@@ -7,6 +7,14 @@ source /opt/homebrew/share/antigen/antigen.zsh
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
+# Bundles from the default repo
+antigen bundle sudo
+antigen bundle web-search
+
+# Syntax non-core bundle
+antigen bundle zsh-users/zsh-autosuggestions
+antigen bundle zsh-users/zsh-syntax-highlighting
+
 # Load powerlevel10k theme
 antigen theme romkatv/powerlevel10k
 
@@ -20,3 +28,6 @@ export NVM_DIR="$HOME/.nvm"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# ZSH configuration
+ZSH_AUTOSUGGEST_STRATEGY=(history completion)

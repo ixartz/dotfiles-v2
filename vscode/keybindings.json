@@ -159,5 +159,10 @@
   {
     "key": "shift+cmd+u",
     "command": "workbench.panel.output.focus"
+  },
+  {
+    "key": "right",
+    "command": "acceptSelectedSuggestion",
+    "when": "suggestWidgetVisible && textInputFocus"
   }
 ]
