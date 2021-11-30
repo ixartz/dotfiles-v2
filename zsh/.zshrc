@@ -10,6 +10,7 @@ antigen use oh-my-zsh
 # Bundles from the default repo
 antigen bundle sudo
 antigen bundle web-search
+antigen bundle macos # add 'pfd' alias
 
 # Syntax non-core bundle
 antigen bundle zsh-users/zsh-autosuggestions
