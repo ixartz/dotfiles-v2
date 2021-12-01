@@ -28,11 +28,22 @@
 [color]
     ui = true
 
+[color "branch"]
+    current = green bold
+    local = green
+    remote = yellow
+
+[color "status"]
+    added = green reverse
+    changed = yellow reverse
+    untracked = red reverse
+
 [init]
     defaultBranch = main
 
 [push]
     default = current
+    followTags = true
 
 [pull]
     default = current
@@ -44,7 +55,6 @@
     diffFilter = delta --color-only
 
 [delta]
-    side-by-side = true
     navigate = true
 
 [pager]
