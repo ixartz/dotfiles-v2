@@ -37,5 +37,14 @@
 [pull]
     default = current
 
+[core]
+    pager = delta
+
+[interactive]
+    diffFilter = delta --color-only
+
+[delta]
+    side-by-side = true
+
 [pager]
     log = less --tabs=2 -RFX --pattern 'commit '
