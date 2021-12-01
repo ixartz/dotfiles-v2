@@ -12,6 +12,10 @@ antigen bundle sudo
 antigen bundle web-search
 antigen bundle macos # add 'pfd' alias
 
+# Forgit configuration
+forgit_add=gia
+antigen bundle 'wfxr/forgit'
+
 # Syntax non-core bundle
 antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-syntax-highlighting
