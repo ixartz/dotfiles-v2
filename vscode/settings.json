@@ -90,5 +90,6 @@
     "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
     "editor.suggest.preview": true,
     "editor.guides.bracketPairs": "active",
-    "editor.renderLineHighlight": "all"
+    "editor.renderLineHighlight": "all",
+    "references.preferredLocation": "view"
 }
