@@ -30,9 +30,6 @@ export NVM_DIR="$HOME/.nvm"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# ZSH configuration
-ZSH_AUTOSUGGEST_STRATEGY=(history completion)
-
 # Load Scm breeze
 [ -s "/Users/ixi/.scm_breeze/scm_breeze.sh" ] && source "/Users/ixi/.scm_breeze/scm_breeze.sh"
 
@@ -50,6 +47,16 @@ elif [ -x "`which less 2> /dev/null`" ]; then
 elif [ -x "`which more 2> /dev/null`" ]; then
     export PAGER=more
 fi
+
+# ZSH configuration
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon context dir vcs newline)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status command_execution_time root_indicator background_jobs time newline)
+ZSH_AUTOSUGGEST_STRATEGY=(history completion)
+
+# Enable context configuration
+unset POWERLEVEL9K_CONTEXT_{DEFAULT,SUDO}_{CONTENT,VISUAL_IDENTIFIER}_EXPANSION
+POWERLEVEL9K_CONTEXT_TEMPLATE="%n"
+POWERLEVEL9K_CONTEXT_DEFAULT_FOREGROUND='093'
 
 # Functions
 qfind() {
@@ -82,6 +89,7 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias cd..='cd ..'
 alias cd.='cd ..'
+alias c='cd ~/Projects'
 
 alias ll='ls -larth'
 alias la='ls -a'
