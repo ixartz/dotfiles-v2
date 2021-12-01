@@ -45,6 +45,7 @@
 
 [delta]
     side-by-side = true
+    navigate = true
 
 [pager]
-    log = less --tabs=2 -RFX --pattern 'commit '
+    log = less --tabs=2 -RFX --pattern '(commit |Δ|•)'
