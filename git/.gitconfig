@@ -46,6 +46,7 @@
     followTags = true
 
 [pull]
+    ff = only
     default = current
 
 [core]

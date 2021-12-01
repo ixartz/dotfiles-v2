@@ -87,18 +87,23 @@ killPidFromPort() {
 }
 
 # Alias
-alias reload='source $HOME/.zshrc'
-
 alias ..='cd ..'
 alias ...='cd ../..'
 alias cd..='cd ..'
 alias cd.='cd ..'
+alias .2='cd ../../'
+alias .3='cd ../../../'
+alias .4='cd ../../../../'
+alias .5='cd ../../../../..'
 alias c='cd ~/Projects'
 
-alias ll='ls -larth'
-alias la='ls -a'
+alias ls='exa'
+alias lsi='exa --icons'
+alias l='exa --long --git'
+alias ll='exa --all --long --git'
+alias la='exa --all'
 
-alias rm='rmtrash'
+alias rm='trash'
 alias cp='cp -i'
 alias mv='mv -i'
 
@@ -125,3 +130,5 @@ alias blueDemonOn='sudo kextload -b com.apple.iokit.BroadcomBluetoothHostControl
 alias wifiStatus='/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I'
 alias wifiOn='networksetup -setairportpower en0 on'
 alias wifiOff='networksetup -setairportpower en0 off'
+
+alias showIp="curl https://ipinfo.io/json"
