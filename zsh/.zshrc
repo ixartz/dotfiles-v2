@@ -32,3 +32,6 @@ export NVM_DIR="$HOME/.nvm"
 
 # ZSH configuration
 ZSH_AUTOSUGGEST_STRATEGY=(history completion)
+
+# Load Scm breeze
+[ -s "/Users/ixi/.scm_breeze/scm_breeze.sh" ] && source "/Users/ixi/.scm_breeze/scm_breeze.sh"
