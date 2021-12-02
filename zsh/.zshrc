@@ -108,8 +108,7 @@ alias cp='cp -i'
 alias mv='mv -i'
 
 alias diff='diff -u'
-alias cat='bat'
-alias cqt='bat'
+alias cqt='cat'
 
 alias v='vim'
 
