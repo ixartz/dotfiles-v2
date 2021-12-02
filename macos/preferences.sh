@@ -25,7 +25,7 @@ defaults write com.apple.dock springboard-page-duration -float 0
 defaults write -g QLPanelAnimationDuration -float 0
 
 # Showing the Dock
-defaults write com.apple.dock autohide-time-modifier -float 0
+defaults write com.apple.dock autohide-time-modifier -float 0.3
 defaults write com.apple.dock autohide-delay -float 0
 
 # Don’t automatically rearrange Spaces based on most recent use
