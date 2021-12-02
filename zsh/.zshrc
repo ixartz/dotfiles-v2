@@ -82,6 +82,10 @@ gcoma() {
     git push
 }
 
+gcob() {
+    git checkout -b $1 origin/$1
+}
+
 killPidFromPort() {
     kill $(lsof -t -i:$1)
 }
