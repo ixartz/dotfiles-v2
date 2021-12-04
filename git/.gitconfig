@@ -57,6 +57,4 @@
 
 [delta]
     navigate = true
-
-[pager]
-    log = less --tabs=2 -RFX --pattern '(commit |Δ|•)'
+    hunk-label =
