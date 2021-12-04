@@ -116,7 +116,7 @@ alias cqt='cat'
 
 alias v='vim'
 
-alias gp='git push'
+alias gp='git push -u origin HEAD'
 
 alias tarbz2='tar cvjf'
 alias untarbz2='tar xvjf'

@@ -42,7 +42,6 @@
     defaultBranch = main
 
 [push]
-    default = current
     followTags = true
 
 [pull]
