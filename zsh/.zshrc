@@ -73,13 +73,13 @@ gfind() {
 
 gcom() {
     git com "$1"
-    git push
+    git push -u origin HEAD
 }
 
 gcoma() {
     git add -A
     git com "$1"
-    git push
+    git push -u origin HEAD
 }
 
 gcob() {
