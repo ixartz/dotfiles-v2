@@ -10,7 +10,7 @@ antigen use oh-my-zsh
 # Bundles from the default repo
 antigen bundle sudo
 antigen bundle web-search
-antigen bundle macos # add 'pfd' alias
+antigen bundle macos
 
 # Forgit configuration
 forgit_add=gia
@@ -122,9 +122,6 @@ alias tarbz2='tar cvjf'
 alias untarbz2='tar xvjf'
 alias readbz2='tar tjf'
 
-alias showHiddenFiles='defaults write com.apple.finder AppleShowAllFiles YES && killall Finder'
-alias hideHiddenFiles='defaults write com.apple.finder AppleShowAllFiles NO && killall Finder'
-
 alias clearDNS='sudo killall -HUP mDNSResponder'
 
 alias blueOn='blueutil -p 1'
@@ -136,3 +133,9 @@ alias wifiOn='networksetup -setairportpower en0 on'
 alias wifiOff='networksetup -setairportpower en0 off'
 
 alias showIp="curl https://ipinfo.io/json"
+
+# alias from macos:
+# pfd - Return the path of the frontmost Finder window
+# cdf - cd to the current Finder directory
+# showfiles - Show hidden files in Finder
+# hidefiles - Hide the hidden files in Finder
