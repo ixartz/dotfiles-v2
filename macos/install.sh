@@ -7,6 +7,7 @@ xcode-select --install
 
 # Install brew application
 brew install gh nvm trash tree httpie jq htop antigen fzf ripgrep git-delta bat exa
+brew install --cask raycast
 
 # Install Vim-plug manually install. Then, in Vim, run :PlugInstall
 
