@@ -10,7 +10,6 @@
     "workbench.colorTheme": "Monokai++",
     "extensions.ignoreRecommendations": true,
     "terminal.integrated.fontFamily": "MesloLGS NF",
-    "diffEditor.ignoreTrimWhitespace": false,
     "files.insertFinalNewline": true,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
@@ -91,5 +90,8 @@
     "editor.suggest.preview": true,
     "editor.guides.bracketPairs": "active",
     "editor.renderLineHighlight": "all",
-    "references.preferredLocation": "view"
+    "references.preferredLocation": "view",
+    "scm.diffDecorationsIgnoreTrimWhitespace": "inherit",
+    "editor.unicodeHighlight.nonBasicASCII": true,
+    "editor.unicodeHighlight.includeComments": true
 }
