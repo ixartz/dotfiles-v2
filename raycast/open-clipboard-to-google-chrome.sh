@@ -9,4 +9,4 @@
 # @raycast.icon 📋
 
 link=$(pbpaste)
-open -na "Google Chrome" --args $link
+open -u $link
