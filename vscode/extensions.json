@@ -17,6 +17,7 @@
         "IBM.output-colorizer",
         "jock.svg",
         "mechatroner.rainbow-csv",
+        "meganrogge.template-string-converter",
         "mikestead.dotenv",
         "msjsdiag.debugger-for-chrome",
         "oderwat.indent-rainbow",
