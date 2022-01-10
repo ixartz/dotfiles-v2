@@ -93,19 +93,6 @@
     "when": "panelFocus"
   },
   {
-    "key": "cmd+i",
-    "command": "extension.jumpy-line"
-  },
-  {
-    "key": "Escape",
-    "command": "extension.jumpy-exit",
-    "when": "editorTextFocus && jumpy.isJumpyMode"
-  },
-  {
-    "key": "shift+cmd+i",
-    "command": "extension.jumpy-word"
-  },
-  {
     "key": "ctrl+`",
     "command": "-workbench.action.terminal.toggleTerminal"
   },
