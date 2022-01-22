@@ -93,5 +93,6 @@
     "references.preferredLocation": "view",
     "scm.diffDecorationsIgnoreTrimWhitespace": "inherit",
     "editor.unicodeHighlight.nonBasicASCII": true,
-    "editor.unicodeHighlight.includeComments": true
+    "editor.unicodeHighlight.includeComments": true,
+    "editor.suggest.showSnippets": false
 }
