@@ -11,6 +11,7 @@
         "esbenp.prettier-vscode",
         "formulahendry.code-runner",
         "GitHub.vscode-pull-request-github",
+        "gitkraken.gitkraken-authentication",
         "golf1052.code-sync",
         "humao.rest-client",
         "IBM.output-colorizer",
@@ -31,6 +32,7 @@
         "usernamehw.errorlens",
         "vscode-icons-team.vscode-icons",
         "wayou.vscode-todo-highlight",
+        "wix.glean",
         "Zignd.html-css-class-completion"
     ]
 }
