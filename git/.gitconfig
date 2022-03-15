@@ -57,3 +57,4 @@
 [delta]
     navigate = true
     hunk-label =
+    plus-style = syntax "#004800"
