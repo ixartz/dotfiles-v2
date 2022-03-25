@@ -10,6 +10,7 @@
         "eamodio.gitlens",
         "esbenp.prettier-vscode",
         "formulahendry.code-runner",
+        "GitHub.copilot",
         "GitHub.vscode-pull-request-github",
         "golf1052.code-sync",
         "humao.rest-client",

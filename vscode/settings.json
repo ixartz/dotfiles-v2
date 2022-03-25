@@ -94,5 +94,10 @@
     "scm.diffDecorationsIgnoreTrimWhitespace": "inherit",
     "editor.unicodeHighlight.nonBasicASCII": true,
     "editor.unicodeHighlight.includeComments": true,
-    "editor.suggest.showSnippets": false
+    "editor.suggest.showSnippets": false,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": false,
+        "markdown": true
+    }
 }
