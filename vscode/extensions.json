@@ -1,5 +1,7 @@
 {
     "extensions": [
+        "ms-vscode.js-debug-companion",
+        "ms-vscode.references-view",
         "blanu.vscode-styled-jsx",
         "bradlc.vscode-tailwindcss",
         "ChakrounAnas.turbo-console-log",
@@ -20,7 +22,6 @@
         "mechatroner.rainbow-csv",
         "meganrogge.template-string-converter",
         "mikestead.dotenv",
-        "msjsdiag.debugger-for-chrome",
         "oderwat.indent-rainbow",
         "Orta.vscode-jest",
         "patbenatar.advanced-new-file",
