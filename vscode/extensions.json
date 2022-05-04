@@ -2,6 +2,7 @@
     "extensions": [
         "ms-vscode.js-debug-companion",
         "ms-vscode.references-view",
+        "astro-build.astro-vscode",
         "blanu.vscode-styled-jsx",
         "bradlc.vscode-tailwindcss",
         "ChakrounAnas.turbo-console-log",
