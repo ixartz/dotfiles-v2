@@ -6,7 +6,6 @@
     "window.zoomLevel": 0,
     "editor.fontSize": 14,
     "editor.minimap.enabled": true,
-    "editor.renderIndentGuides": true,
     "workbench.colorTheme": "Monokai++",
     "extensions.ignoreRecommendations": true,
     "terminal.integrated.fontFamily": "MesloLGS NF",
@@ -99,5 +98,11 @@
     "github.copilot.enable": {
         "*": false,
         "markdown": true
-    }
+    },
+    "editor.guides.indentation": true,
+    "typescript.suggest.completeFunctionCalls": true,
+    "scm.diffDecorationsGutterPattern": {
+        "added": true
+    },
+    "debug.autoExpandLazyVariables": true
 }
