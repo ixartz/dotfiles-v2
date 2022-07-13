@@ -1,6 +1,5 @@
 {
     "extensions": [
-        "ms-vscode.js-debug-companion",
         "astro-build.astro-vscode",
         "blanu.vscode-styled-jsx",
         "bradlc.vscode-tailwindcss",
