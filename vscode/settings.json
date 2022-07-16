@@ -104,5 +104,6 @@
     "scm.diffDecorationsGutterPattern": {
         "added": true
     },
-    "debug.autoExpandLazyVariables": true
+    "debug.autoExpandLazyVariables": true,
+    "jest.showTerminalOnLaunch": false
 }
