@@ -105,5 +105,7 @@
         "added": true
     },
     "debug.autoExpandLazyVariables": true,
-    "jest.showTerminalOnLaunch": false
+    "jest.showTerminalOnLaunch": false,
+    "git.mergeEditor": true,
+    "window.commandCenter": true
 }
