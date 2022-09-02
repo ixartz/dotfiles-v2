@@ -107,5 +107,8 @@
     "debug.autoExpandLazyVariables": true,
     "jest.showTerminalOnLaunch": false,
     "git.mergeEditor": true,
-    "window.commandCenter": true
+    "window.commandCenter": true,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "githubPullRequests.pullBranch": "never",
+    "editor.stickyScroll.enabled": true
 }

@@ -56,6 +56,7 @@ fi
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon context dir vcs newline)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status command_execution_time root_indicator background_jobs time newline)
 ZSH_AUTOSUGGEST_STRATEGY=(history completion)
+ITERM_SHELL_INTEGRATION_INSTALLED=Yes
 
 # Enable context configuration
 unset POWERLEVEL9K_CONTEXT_{DEFAULT,SUDO}_{CONTENT,VISUAL_IDENTIFIER}_EXPANSION
