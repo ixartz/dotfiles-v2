@@ -21,6 +21,7 @@
         "mechatroner.rainbow-csv",
         "meganrogge.template-string-converter",
         "mikestead.dotenv",
+        "ms-edgedevtools.vscode-edge-devtools",
         "oderwat.indent-rainbow",
         "Orta.vscode-jest",
         "patbenatar.advanced-new-file",
