@@ -97,6 +97,8 @@
     "editor.inlineSuggest.enabled": true,
     "github.copilot.enable": {
         "*": false,
+        "yaml": false,
+        "plaintext": false,
         "markdown": true
     },
     "editor.guides.indentation": true,
