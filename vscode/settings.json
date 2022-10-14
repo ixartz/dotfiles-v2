@@ -112,5 +112,6 @@
     "terminal.integrated.shellIntegration.enabled": true,
     "githubPullRequests.pullBranch": "never",
     "editor.stickyScroll.enabled": true,
-    "markdown.validate.enabled": true
+    "markdown.validate.enabled": true,
+    "vscode-edge-devtools.webhint": false
 }
