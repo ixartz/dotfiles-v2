@@ -33,7 +33,7 @@
     "gitlens.views.repositories.files.layout": "tree",
     "search.showLineNumbers": true,
     "workbench.editor.highlightModifiedTabs": true,
-    "editor.cursorSmoothCaretAnimation": false,
+    "editor.cursorSmoothCaretAnimation": "off",
     "cSpell.ignorePaths": [
         "yarn.lock"
     ],
