@@ -114,6 +114,6 @@
     "editor.stickyScroll.enabled": true,
     "markdown.validate.enabled": true,
     "vscode-edge-devtools.webhint": false,
-    "markdown.updateLinksOnFileMove.enabled": "prompt",
+    "markdown.updateLinksOnFileMove.enabled": "always",
     "editor.inlineSuggest.showToolbar": "always"
 }
