@@ -23,6 +23,7 @@
         "mikestead.dotenv",
         "mongodb.mongodb-vscode",
         "ms-edgedevtools.vscode-edge-devtools",
+        "msjsdiag.vscode-react-native",
         "oderwat.indent-rainbow",
         "Orta.vscode-jest",
         "patbenatar.advanced-new-file",
@@ -36,6 +37,7 @@
         "usernamehw.errorlens",
         "vscode-icons-team.vscode-icons",
         "wayou.vscode-todo-highlight",
+        "yoavbls.pretty-ts-errors",
         "Zignd.html-css-class-completion"
     ]
 }
