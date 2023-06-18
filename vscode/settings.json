@@ -114,7 +114,6 @@
     "markdown.validate.enabled": true,
     "vscode-edge-devtools.webhint": false,
     "markdown.updateLinksOnFileMove.enabled": "always",
-    "editor.inlineSuggest.showToolbar": "always",
     "editor.stickyScroll.enabled": true,
     "git.mergeEditor": true
 }
