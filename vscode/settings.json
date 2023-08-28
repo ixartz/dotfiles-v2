@@ -95,12 +95,6 @@
     "editor.unicodeHighlight.includeComments": true,
     "editor.suggest.showSnippets": false,
     "editor.inlineSuggest.enabled": true,
-    "github.copilot.enable": {
-        "*": false,
-        "yaml": false,
-        "plaintext": false,
-        "markdown": true
-    },
     "editor.guides.indentation": true,
     "typescript.suggest.completeFunctionCalls": true,
     "scm.diffDecorationsGutterPattern": {
@@ -115,5 +109,14 @@
     "vscode-edge-devtools.webhint": false,
     "markdown.updateLinksOnFileMove.enabled": "always",
     "editor.stickyScroll.enabled": true,
-    "git.mergeEditor": true
+    "git.mergeEditor": true,
+    "editor.linkedEditing": true,
+    "markdown.editor.pasteUrlAsFormattedLink.enabled": "smart",
+    "github.copilot.advanced": {
+        "slashCommands": {
+            "createWorkspace": true,
+            "createNotebook": true,
+            "search": true
+        }
+    }
 }
