@@ -118,5 +118,14 @@
             "createNotebook": true,
             "search": true
         }
-    }
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "playwright.reuseBrowser": false,
+    "editor.inlineSuggest.showToolbar": "always",
+    "playwright.showTrace": false
 }

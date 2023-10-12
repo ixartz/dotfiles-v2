@@ -24,6 +24,7 @@
         "mikestead.dotenv",
         "mongodb.mongodb-vscode",
         "ms-edgedevtools.vscode-edge-devtools",
+        "ms-playwright.playwright",
         "msjsdiag.vscode-react-native",
         "oderwat.indent-rainbow",
         "Orta.vscode-jest",
