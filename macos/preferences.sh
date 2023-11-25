@@ -45,3 +45,6 @@ defaults write NSGlobalDomain com.apple.springing.delay -float 0
 
 # Kill all affected applications
 killall Dock Finder SystemUIServer
+
+# Disable language icon from input field
+defaults write kCFPreferencesAnyApplication TSMLanguageIndicatorEnabled 0
