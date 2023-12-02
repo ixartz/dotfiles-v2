@@ -20,6 +20,7 @@
         "humao.rest-client",
         "IBM.output-colorizer",
         "jock.svg",
+        "lokalise.i18n-ally",
         "mechatroner.rainbow-csv",
         "mikestead.dotenv",
         "mongodb.mongodb-vscode",
