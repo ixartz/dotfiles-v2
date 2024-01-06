@@ -129,5 +129,6 @@
     "editor.inlineSuggest.showToolbar": "always",
     "playwright.showTrace": false,
     "diffEditor.hideUnchangedRegions.enabled": true,
-    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize"
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
+    "workbench.tree.enableStickyScroll": true
 }
