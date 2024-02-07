@@ -130,6 +130,5 @@
     "playwright.showTrace": false,
     "diffEditor.hideUnchangedRegions.enabled": true,
     "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
-    "workbench.tree.enableStickyScroll": true,
-    "terminal.integrated.stickyScroll.enabled": true
+    "workbench.tree.enableStickyScroll": true
 }
