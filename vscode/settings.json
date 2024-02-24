@@ -125,10 +125,12 @@
         "markdown": true,
         "scminput": false
     },
-    "playwright.reuseBrowser": false,
+    "playwright.reuseBrowser": true,
     "editor.inlineSuggest.showToolbar": "always",
     "playwright.showTrace": false,
     "diffEditor.hideUnchangedRegions.enabled": true,
     "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
-    "workbench.tree.enableStickyScroll": true
+    "workbench.tree.enableStickyScroll": true,
+    "typescript.preferences.renameMatchingJsxTags": false,
+    "javascript.preferences.renameMatchingJsxTags": false
 }
