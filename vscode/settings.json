@@ -110,7 +110,6 @@
     "markdown.updateLinksOnFileMove.enabled": "always",
     "editor.stickyScroll.enabled": true,
     "git.mergeEditor": true,
-    "editor.linkedEditing": true,
     "markdown.editor.pasteUrlAsFormattedLink.enabled": "smart",
     "github.copilot.advanced": {
         "slashCommands": {
@@ -130,7 +129,5 @@
     "playwright.showTrace": false,
     "diffEditor.hideUnchangedRegions.enabled": true,
     "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
-    "workbench.tree.enableStickyScroll": true,
-    "typescript.preferences.renameMatchingJsxTags": false,
-    "javascript.preferences.renameMatchingJsxTags": false
+    "workbench.tree.enableStickyScroll": true
 }
