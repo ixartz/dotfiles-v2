@@ -25,6 +25,7 @@
         "mongodb.mongodb-vscode",
         "ms-edgedevtools.vscode-edge-devtools",
         "ms-playwright.playwright",
+        "ms-vscode.vscode-speech",
         "msjsdiag.vscode-react-native",
         "oderwat.indent-rainbow",
         "Orta.vscode-jest",
