@@ -151,5 +151,9 @@
     "key": "right",
     "command": "acceptSelectedSuggestion",
     "when": "suggestWidgetVisible && textInputFocus"
+  },
+  {
+    "key": "shift+cmd+f",
+    "command": "workbench.action.quickTextSearch"
   }
 ]

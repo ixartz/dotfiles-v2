@@ -131,5 +131,6 @@
     "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
     "workbench.tree.enableStickyScroll": true,
     "prisma.showPrismaDataPlatformNotification": false,
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "github.copilot.editor.enableAutoCompletions": true
 }
