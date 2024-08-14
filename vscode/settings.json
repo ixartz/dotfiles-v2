@@ -100,7 +100,6 @@
     "scm.diffDecorationsGutterPattern": {
         "added": true
     },
-    "debug.autoExpandLazyVariables": true,
     "jest.showTerminalOnLaunch": false,
     "window.commandCenter": true,
     "terminal.integrated.shellIntegration.enabled": true,
@@ -132,5 +131,7 @@
     "workbench.tree.enableStickyScroll": true,
     "prisma.showPrismaDataPlatformNotification": false,
     "diffEditor.ignoreTrimWhitespace": false,
-    "github.copilot.editor.enableAutoCompletions": true
+    "github.copilot.editor.enableAutoCompletions": true,
+    "workbench.experimental.enableNewProfilesUI": true,
+    "debug.showVariableTypes": true
 }
