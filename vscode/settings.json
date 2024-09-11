@@ -123,7 +123,7 @@
         "markdown": true,
         "scminput": false
     },
-    "playwright.reuseBrowser": false,
+    "playwright.reuseBrowser": true,
     "editor.inlineSuggest.showToolbar": "always",
     "playwright.showTrace": false,
     "diffEditor.hideUnchangedRegions.enabled": true,
@@ -133,5 +133,11 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "github.copilot.editor.enableAutoCompletions": true,
     "workbench.experimental.enableNewProfilesUI": true,
-    "debug.showVariableTypes": true
+    "debug.showVariableTypes": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "diffEditor.codeLens": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
+    "typescript.implementationsCodeLens.showOnInterfaceMethods": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "github.copilot.chat.experimental.temporalContext.enabled": true
 }
