@@ -141,6 +141,5 @@
     "typescript.implementationsCodeLens.enabled": true,
     "github.copilot.chat.experimental.temporalContext.enabled": true,
     "editor.lightbulb.enabled": "on",
-    "chat.experimental.detectParticipant.enabled": true,
-    "github.copilot.chat.search.semanticTextResults": true
+    "chat.experimental.detectParticipant.enabled": true
 }
