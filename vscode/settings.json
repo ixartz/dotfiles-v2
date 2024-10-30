@@ -123,9 +123,9 @@
         "markdown": true,
         "scminput": false
     },
-    "playwright.reuseBrowser": false,
+    "playwright.reuseBrowser": true,
     "editor.inlineSuggest.showToolbar": "always",
-    "playwright.showTrace": true,
+    "playwright.showTrace": false,
     "diffEditor.hideUnchangedRegions.enabled": true,
     "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
     "workbench.tree.enableStickyScroll": true,
@@ -139,7 +139,10 @@
     "typescript.referencesCodeLens.showOnAllFunctions": true,
     "typescript.implementationsCodeLens.showOnInterfaceMethods": true,
     "typescript.implementationsCodeLens.enabled": true,
-    "github.copilot.chat.experimental.temporalContext.enabled": true,
     "editor.lightbulb.enabled": "on",
-    "chat.experimental.detectParticipant.enabled": true
+    "chat.experimental.detectParticipant.enabled": true,
+    "chat.commandCenter.enabled": true,
+    "github.copilot.chat.temporalContext.enabled": true,
+    "githubPullRequests.experimental.notificationsView": true,
+    "eslint.format.enable": true
 }
