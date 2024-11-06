@@ -144,5 +144,6 @@
     "chat.commandCenter.enabled": true,
     "github.copilot.chat.temporalContext.enabled": true,
     "githubPullRequests.experimental.notificationsView": true,
-    "eslint.format.enable": true
+    "eslint.format.enable": true,
+    "chat.editing.alwaysSaveWithGeneratedChanges": true
 }
