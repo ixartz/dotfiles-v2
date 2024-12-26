@@ -140,10 +140,12 @@
     "typescript.implementationsCodeLens.showOnInterfaceMethods": true,
     "typescript.implementationsCodeLens.enabled": true,
     "editor.lightbulb.enabled": "on",
-    "chat.experimental.detectParticipant.enabled": true,
     "chat.commandCenter.enabled": true,
     "github.copilot.chat.temporalContext.enabled": true,
     "githubPullRequests.experimental.notificationsView": true,
     "eslint.format.enable": true,
-    "chat.editing.alwaysSaveWithGeneratedChanges": true
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "chat.detectParticipant.enabled": true,
+    "git.blame.editorDecoration.enabled": true,
+    "git.blame.statusBarItem.enabled": true
 }
