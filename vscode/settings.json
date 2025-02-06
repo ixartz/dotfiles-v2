@@ -141,11 +141,16 @@
     "typescript.implementationsCodeLens.enabled": true,
     "editor.lightbulb.enabled": "on",
     "chat.commandCenter.enabled": true,
-    "github.copilot.chat.temporalContext.enabled": true,
     "githubPullRequests.experimental.notificationsView": true,
     "eslint.format.enable": true,
     "chat.editing.alwaysSaveWithGeneratedChanges": true,
     "chat.detectParticipant.enabled": true,
     "git.blame.editorDecoration.enabled": true,
-    "git.blame.statusBarItem.enabled": true
+    "git.blame.statusBarItem.enabled": true,
+    "github.copilot.chat.editor.temporalContext.enabled": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.chat.edits.temporalContext.enabled": true,
+    "terminal.integrated.stickyScroll.enabled": true,
+    "github.copilot.chat.edits.codesearch.enabled": true,
+    "terminal.integrated.suggest.enabled": true
 }
