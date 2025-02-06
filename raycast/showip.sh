@@ -6,7 +6,7 @@
 # @raycast.mode compact
 
 # Optional parameters:
-# @raycast.icon 🤖
+# @raycast.icon 💻
 
 cmd=$(curl https://ipinfo.io/json | jq '.ip')
 

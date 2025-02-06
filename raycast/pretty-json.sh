@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon 🤖
+# @raycast.icon 💻
 
 pbpaste | python -m json.tool | pbcopy
 echo "Pretty JSON"

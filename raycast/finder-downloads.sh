@@ -6,6 +6,6 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon ⛵
+# @raycast.icon 💻
 
 open ~/Downloads

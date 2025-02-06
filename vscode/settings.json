@@ -123,7 +123,7 @@
         "markdown": true,
         "scminput": false
     },
-    "playwright.reuseBrowser": true,
+    "playwright.reuseBrowser": false,
     "editor.inlineSuggest.showToolbar": "always",
     "playwright.showTrace": false,
     "diffEditor.hideUnchangedRegions.enabled": true,

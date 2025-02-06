@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon 🤖
+# @raycast.icon 💻
 
 escaped=$(pbpaste) && printf '%q' "$escaped" | pbcopy
 echo "Escaped string for shell"
