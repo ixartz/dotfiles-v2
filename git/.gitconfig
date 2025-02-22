@@ -48,6 +48,9 @@
     ff = only
     default = current
 
+[branch]
+    sort = committerdate
+
 [core]
     pager = delta
 
