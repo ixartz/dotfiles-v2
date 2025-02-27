@@ -126,11 +126,10 @@
     "playwright.reuseBrowser": false,
     "editor.inlineSuggest.showToolbar": "always",
     "playwright.showTrace": false,
-    "diffEditor.hideUnchangedRegions.enabled": true,
     "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
     "workbench.tree.enableStickyScroll": true,
     "prisma.showPrismaDataPlatformNotification": false,
-    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.ignoreTrimWhitespace": true,
     "github.copilot.editor.enableAutoCompletions": true,
     "workbench.experimental.enableNewProfilesUI": true,
     "debug.showVariableTypes": true,
@@ -153,5 +152,6 @@
     "terminal.integrated.stickyScroll.enabled": true,
     "github.copilot.chat.edits.codesearch.enabled": true,
     "terminal.integrated.suggest.enabled": true,
-    "github.copilot.selectedCompletionModel": "gpt-4o-copilot"
+    "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
+    "diffEditor.hideUnchangedRegions.enabled": true
 }
