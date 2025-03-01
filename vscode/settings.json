@@ -153,5 +153,6 @@
     "github.copilot.chat.edits.codesearch.enabled": true,
     "terminal.integrated.suggest.enabled": true,
     "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
-    "diffEditor.hideUnchangedRegions.enabled": true
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "accessibility.voice.speechTimeout": 24000
 }
