@@ -1,7 +1,6 @@
 {
     "extensions": [
         "astro-build.astro-vscode",
-        "biomejs.biome",
         "blanu.vscode-styled-jsx",
         "bradlc.vscode-tailwindcss",
         "ChakrounAnas.turbo-console-log",
