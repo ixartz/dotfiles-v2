@@ -158,5 +158,7 @@
     "github.copilot.chat.codesearch.enabled": true,
     "editor.inlineSuggest.edits.showCollapsed": true,
     "chat.experimental.statusIndicator.enabled": true,
-    "github.copilot.chat.languageContext.typescript.enabled": true
+    "github.copilot.chat.languageContext.typescript.enabled": true,
+    "github.copilot.chat.agent.thinkingTool": true,
+    "chat.agent.enabled": true
 }
