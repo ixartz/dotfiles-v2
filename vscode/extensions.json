@@ -21,6 +21,7 @@
         "mechatroner.rainbow-csv",
         "mikestead.dotenv",
         "ms-edgedevtools.vscode-edge-devtools",
+        "ms-ossdata.vscode-pgsql",
         "ms-playwright.playwright",
         "ms-vscode.vscode-speech",
         "msjsdiag.vscode-react-native",
