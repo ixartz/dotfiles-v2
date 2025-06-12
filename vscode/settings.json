@@ -149,7 +149,7 @@
     "github.copilot.chat.editor.temporalContext.enabled": true,
     "github.copilot.nextEditSuggestions.enabled": true,
     "github.copilot.chat.edits.temporalContext.enabled": true,
-    "terminal.integrated.stickyScroll.enabled": true,
+    "terminal.integrated.stickyScroll.enabled": false,
     "github.copilot.chat.edits.codesearch.enabled": true,
     "terminal.integrated.suggest.enabled": true,
     "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
