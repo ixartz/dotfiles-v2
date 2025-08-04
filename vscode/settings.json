@@ -165,5 +165,7 @@
     "inlineChat.hideOnRequest": true,
     "workbench.secondarySideBar.defaultVisibility": "visibleInWorkspace",
     "github.copilot.chat.search.keywordSuggestions": true,
-    "github.copilot.nextEditSuggestions.fixes": true
+    "github.copilot.nextEditSuggestions.fixes": true,
+    "workbench.settings.showAISearchToggle": true,
+    "githubPullRequests.codingAgent.uiIntegration": true
 }
