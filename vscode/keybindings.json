@@ -155,5 +155,10 @@
   {
     "key": "shift+cmd+f",
     "command": "workbench.action.quickTextSearch"
+  },
+  {
+    "key": "cmd+i",
+    "command": "-geminicodeassist.showinEditor",
+    "when": "authLoggedIn && config.geminicodeassist.enable && editorTextFocus && shouldRegisterInEditorCommand && !inGeminiDiffView && !isInDiffEditor"
   }
 ]

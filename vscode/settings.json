@@ -167,5 +167,12 @@
     "github.copilot.chat.search.keywordSuggestions": true,
     "github.copilot.nextEditSuggestions.fixes": true,
     "workbench.settings.showAISearchToggle": true,
-    "githubPullRequests.codingAgent.uiIntegration": true
+    "githubPullRequests.codingAgent.uiIntegration": true,
+    "chat.todoListTool.enabled": true,
+    "chat.math.enabled": true,
+    "editor.aiStats.enabled": true,
+    "inlineChat.notebookAgent": true,
+    "chat.agentSessionsViewLocation": "view",
+    "geminicodeassist.inlineSuggestions.enableAuto": false,
+    "geminicodeassist.enableTelemetry": false
 }
