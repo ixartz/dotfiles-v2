@@ -1,13 +1,11 @@
 {
     "extensions": [
         "astro-build.astro-vscode",
-        "blanu.vscode-styled-jsx",
         "bradlc.vscode-tailwindcss",
         "ChakrounAnas.turbo-console-log",
         "csstools.postcss",
         "dbaeumer.vscode-eslint",
         "dcasella.monokai-plusplus",
-        "DigitalBrainstem.javascript-ejs-support",
         "esbenp.prettier-vscode",
         "GitHub.copilot",
         "GitHub.copilot-chat",
