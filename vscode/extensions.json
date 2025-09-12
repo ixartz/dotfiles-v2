@@ -1,5 +1,6 @@
 {
     "extensions": [
+        "Anthropic.claude-code",
         "astro-build.astro-vscode",
         "bradlc.vscode-tailwindcss",
         "ChakrounAnas.turbo-console-log",

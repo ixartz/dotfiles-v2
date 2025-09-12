@@ -174,5 +174,8 @@
     "inlineChat.notebookAgent": true,
     "chat.agentSessionsViewLocation": "view",
     "geminicodeassist.inlineSuggestions.enableAuto": false,
-    "geminicodeassist.enableTelemetry": false
+    "geminicodeassist.enableTelemetry": false,
+    "pgsql.serverGroups": [],
+    "pgsql.connections": [],
+    "pgsql.enableQueryHistoryCapture": false
 }
